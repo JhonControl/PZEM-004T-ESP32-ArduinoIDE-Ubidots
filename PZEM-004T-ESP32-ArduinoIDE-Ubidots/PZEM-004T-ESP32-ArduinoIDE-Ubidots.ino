@@ -6,7 +6,7 @@
  *
  * Made by Jose García., adapted from the original WiFiClient ESP8266 example
  * 
- * Modified by PDAControl for ESP32 modules and PZEM Power Meters   // info:http://bit.ly/2DVPk0X
+ * Modified by PDAControl for ESP32 modules and PZEM Power Meters   
  *************************************************************************************************/
 
 /********************************
@@ -55,8 +55,8 @@ char* DEVICE_LABEL = "*********************";         // Your Device label examp
 /* Put here your variable's labels*/
 char const * VARIABLE_LABEL_1 = "volts";
 char const * VARIABLE_LABEL_2 = "amperes";
-char const * VARIABLE_LABEL_3 = "watts";
-char const * VARIABLE_LABEL_4 = "power";
+char const * VARIABLE_LABEL_3 = "power";
+char const * VARIABLE_LABEL_4 = "energy";
 char const * VARIABLE_LABEL_5 = "state_meter";
 char const * VARIABLE_LABEL_6 = "rssi";
 char const * VARIABLE_LABEL_7 = "temperature_internal";
