@@ -30,17 +30,10 @@ El objetivo de estas pruebas es hacer el registro de las mediciones eléctricas 
 
 # Arduino IDE Code
 
-I have taken the original example directly from the [**Ubidots hardware API HTTP**  ](https://ubidots.com/docs/hw/?language=ESP#http)  
-
-documentation, I have adapted it to the **ESP32 modules**
-
-and I have added the functions for reading the PeaceFair Meter.
+I have taken the original example directly from the [**Ubidots hardware API HTTP**  ](https://ubidots.com/docs/hw/?language=ESP#http) documentation, I have adapted it to the **ESP32 modules** and I have added the functions for reading the PeaceFair Meter.
 
 
-
-El ejemplo original lo he tomado directamente de la documentación de la [**API HTTP de hardware Ubidots**  ](https://ubidots.com/docs/hw/?language=ESP#http) , 
-
-lo he adaptado a los **módulos ESP32** y he adicionado las funciones para lectura del Medidor marca PeaceFair
+El ejemplo original lo he tomado directamente de la documentación de la [**API HTTP de hardware Ubidots**  ](https://ubidots.com/docs/hw/?language=ESP#http) lo he adaptado a los **módulos ESP32** y he adicionado las funciones para lectura del Medidor marca PeaceFair.
 
 
 
@@ -55,7 +48,6 @@ Thanks for contributing
 
 
 # Materials / Materiales
-
 
 * [Meter PZEM 004 with display](http://s.click.aliexpress.com/e/YNVrZjq) - Power Meter TTL PeaceFair
 * [Meter PZEM 004T & Three phase meters](http://s.click.aliexpress.com/e/uBunmAm) - Power Meter TTL PeaceFair
