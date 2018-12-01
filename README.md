@@ -7,41 +7,25 @@ Version 1.0   Date 26-11-2018   [PDAControl](http://pdacontrolen.com)
 
 ## Description
 
-Active power measurement test or power consumption with Peacefair PZEM-004 Meter and  **ESP32 FireBeatle DFRobot** data 
-
-transmission and visualization in the **IoT Platform Ubidots Industrial**. 
+Active power measurement test or power consumption with Peacefair PZEM-004 Meter and  **ESP32 FireBeatle DFRobot** data transmission and visualization in the **IoT Platform Ubidots Industrial**. 
 
 Contains 1 Folders:
 
 *  PZEM-004T-ESP32-ArduinoIDE-Ubidots: Ejemplo Arduino IDE para ESP32
 
-The objective of these tests is to make the record of electrical measurements in an uninterrupted way of my house
-
-and have an approximate reference or estimated in costs.
-
-I simply want to compare my measurements, calculate costs and compare with local billing and really observe 
-
-how much they consume the appliances and in the process generate a bit of awareness in the process.
+The objective of these tests is to make the record of electrical measurements in an uninterrupted way of my house and have an approximate reference or estimated in costs.I simply want to compare my measurements, calculate costs and compare with local billing and really observe how much they consume the appliances and in the process generate a bit of awareness in the process.
 
 
 
 ## Descripción
 
-Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004 de Peacefair & **Modulo ESP32 FireBeatle DFRobot**
-
-envio de datos y visualización en la **Plataforma IoT Ubidots Industrial**.
+Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004 de Peacefair & **Modulo ESP32 FireBeatle DFRobot** envio de datos y visualización en la **Plataforma IoT Ubidots Industrial**.
 
 Contiene 1 Carpetas:
 
 * PZEM-004T-ESP32-ArduinoIDE-Ubidots:  Example Arduino IDE  for ESP32
 
-El objetivo de estas pruebas es hacer el registro de las mediciones eléctricas de manera ininterrumpida en mi casa 
-
-y tener una referencia aproximada o un costo estimado.
-
-Simplemente quiero comparar mis mediciones, calcular costos y comparar con la facturación local y observar realmente 
-
-cuánto consumen los aparatos y, en el proceso, generar un poco de conciencia en el proceso.
+El objetivo de estas pruebas es hacer el registro de las mediciones eléctricas de manera ininterrumpida en mi casa y tener una referencia aproximada o un costo estimado. Simplemente quiero comparar mis mediciones, calcular costos y comparar con la facturación local y observar realmente cuánto consumen los aparatos y, en el proceso, generar un poco de conciencia en el proceso.
 
 
 # Arduino IDE Code
